@@ -9,6 +9,9 @@ html {
 }
 
 body {
-  margin: 0;
-  background-color: #c95eb2;
+  background-image: url("./images/wallpaper.png");
+  background-repeat: no-repeat;
+  background-size: inherit;
+  /* margin: 0; */
+  /* background-color: #c95eb2; */
 }
